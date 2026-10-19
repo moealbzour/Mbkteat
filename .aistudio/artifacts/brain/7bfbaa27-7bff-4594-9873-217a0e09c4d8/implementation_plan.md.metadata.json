@@ -1,0 +1,6 @@
+{
+  "summary": "Comprehensive master implementation plan for transforming the MBK Trading Terminal into a client-ready, production-grade institutional platform. Includes first-visit onboarding gate, real TradingView webhook processing with toggleable institutional sample feed, role-based admin controls, streamlined US100/Gold execution, and full visual brand alignment.",
+  "updatedAt": "2026-10-19T06:21:06.013654309Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

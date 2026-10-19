@@ -1,0 +1,6 @@
+{
+  "name": "MBK Trading Terminal",
+  "description": "Institutional-grade multi-tenant trading terminal featuring real-time TradingView charts, MBK Master Engine signals blotter, AI market analyst, and TradingView webhook ingestion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
